@@ -38,9 +38,11 @@ As LEGO sets increasingly become sought-after collectibles and investments, ther
 The resale price of a LEGO set can be accurately predicted based on its features such as theme, number of pieces, year of release, and number of minifigures.
 
 ## Vision
-To provide LEGO investors and collectors with data-driven insights that help identify high-potential sets and make informed investment decisions. By leveraging historical data and predictive modeling, this study aims to demystify the LEGO investment market and highlight opportunities for maximizing returns.
+To provide LEGO investors and collectors with data-driven insights that help identify high-potential sets and make informed investment decisions. By leveraging historical data and predictive modeling, this report aims to demystify the LEGO investment market and highlight opportunities for maximizing returns.
 
 ## Objective
+* Examine how LEGO set prices and resale values have changed over time, identifying trends and potential indicators of future appreciation.
+* Determine which sets, themes, or categories have shown consistent value appreciation and the characteristics that contribute to their investment potential.
 
 ## Key Insights
 ### Dashboard
