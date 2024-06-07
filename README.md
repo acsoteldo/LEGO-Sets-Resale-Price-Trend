@@ -17,7 +17,7 @@ This dataset uses a combination of data from two API's from Brickset.com and Bri
 The analysis will be based on the cleaned dataset, which includes the following fields:
 * Set_ID
 * Name
-* Year
+* Year: year of release
 * Theme
 * Theme_Group
 * Subtheme
