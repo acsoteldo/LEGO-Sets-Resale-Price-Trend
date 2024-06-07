@@ -26,7 +26,8 @@ The analysis will be based on the cleaned dataset, which includes the following 
 * Availability: retail availability
 * Pieces: number of pieces
 * Minifigures: number of minifigures
-* Owned	Rating: user reviews (out of 5 stars)
+* Owned
+* Rating: user reviews (out of 5 stars)
 * Price: list price in USD
 * Resale_Price: latest resale price in USD
 
