@@ -1,5 +1,5 @@
 # LEGO Sets Resale Price Trend
-Highlight trends and identify investment opportunities within the LEGO set market
+Highlighting trends and identify investment opportunities within the LEGO set market
 
 ## Getting Started: 
 1. Report and presentation
@@ -52,7 +52,6 @@ To provide LEGO investors and collectors with data-driven insights that help ide
 * The main theme groups are **Licensed** and **Model Making**.
 
 ### Dashboard
-![image](https://github.com/acsoteldo/LEGO-Sets-Resale-Price-Trend/assets/76544489/c08c50a5-c47e-4ffd-9eb4-c7375a955770)
 
 ## Next Steps
 * Access to additional datasets or APIs that provide up-to-date information on LEGO set sales, trends, and market dynamics.
