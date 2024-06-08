@@ -52,6 +52,7 @@ To provide LEGO investors and collectors with data-driven insights that help ide
 * The main theme groups are **Licensed** and **Model Making**.
 
 ### Dashboard
+![image](https://github.com/acsoteldo/LEGO-Sets-Resale-Price-Trend/assets/76544489/19f708b0-cd88-4e2d-98ee-0027f3b88b99)
 
 ## Next Steps
 * Access to additional datasets or APIs that provide up-to-date information on LEGO set sales, trends, and market dynamics.
