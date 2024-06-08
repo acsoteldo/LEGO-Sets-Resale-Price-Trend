@@ -45,7 +45,14 @@ To provide LEGO investors and collectors with data-driven insights that help ide
 * Determine which sets, themes, or categories have shown consistent value appreciation and the characteristics that contribute to their investment potential.
 
 ## Key Insights
+* The **Simpsons** theme has the highest median resale price, with sets released between 2014 and 2015.
+* The **Advanced Models** theme demonstrates a consistent trend in resale prices from 2003 to 2012.
+* The year **1986** stands out with the highest resale prices, showcasing a range of high resale prices from 1985 to 1995.
+* The **Star Wars** theme holds the highest maximum resale price and has the most data points, with sets released from 1999 to 2023.
+* The main theme groups are **Licensed** and **Model Making**.
+
 ### Dashboard
+![image](https://github.com/acsoteldo/LEGO-Sets-Resale-Price-Trend/assets/76544489/c08c50a5-c47e-4ffd-9eb4-c7375a955770)
 
 ## Next Steps
 * Access to additional datasets or APIs that provide up-to-date information on LEGO set sales, trends, and market dynamics.
