@@ -41,8 +41,11 @@ The resale price of a LEGO set can be accurately predicted based on its features
 To provide LEGO investors and collectors with data-driven insights that help identify high-potential sets and make informed investment decisions. By leveraging historical data and predictive modeling, this report aims to demystify the LEGO investment market and highlight opportunities for maximizing returns.
 
 ## Objective
-* Examine how LEGO set prices and resale values have changed over time, identifying trends and potential indicators of future appreciation.
-* Determine which sets, themes, or categories have shown consistent value appreciation and the characteristics that contribute to their investment potential.
+* Analyze how resale prices of LEGO sets or pieces change over different periods
+* Determine how resale prices are distributed across different themes of LEGO sets or pieces.
+* Focus on the top 5 most popular or highest-selling themes and analyze the distribution of resale prices within each.
+* Drill down into the top 5 subthemes within each main theme and analyze the distribution of resale prices within those subthemes.
+* Investigate if there is any relationship (positive, negative, or none) between the characteristics or attributes of LEGO pieces (such as size, rarity, minifigure inclusion, etc.) and their resale prices.
 
 ## Key Insights
 * The **Simpsons** theme has the highest median resale price, with sets released between 2014 and 2015.
